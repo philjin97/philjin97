@@ -6,4 +6,3 @@
 ### **MBTI**: ISTJ
 ### **Future Goals**: I am a person with great passion and aspiration for bigger dreams. I am currently in the process of acquiring skills to communicate with computers and technology so that I would be geared with skills that can support my imaginations. I am always excited to attempt different projects regardless of how impossible it may sound as long as it has a bigger goal and direction. 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=philjin97)](https://solved.ac/philjin97/)
